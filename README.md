@@ -71,7 +71,7 @@ The model classifies handwritten digits from the MNIST dataset into 10 classes (
 
   - MaxPooling2D	(6, 6, 128)	0
 
-  v Flatten	(4608)	0
+  - Flatten	(4608)	0
 
   - Dense (128 units)	(128)	589,952
 
